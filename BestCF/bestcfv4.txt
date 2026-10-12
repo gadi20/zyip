@@ -22,13 +22,6 @@
 162.159.39.98:2096#NRT-JP-33.73MB/s
 172.64.52.166:2096#NRT-JP-61.57MB/s
 172.64.229.235:2096#NRT-JP-29.31MB/s
-162.159.42.248:8443#新加坡-41.54MB/s
-162.159.34.40:8443#新加坡-39.56MB/s
-172.64.40.183:8443#新加坡-39.08MB/s
-104.18.35.189:8443#新加坡-38.07MB/s
-104.18.36.195:8443#新加坡-37.93MB/s
-172.64.153.19:8443#新加坡-33.34MB/s
-172.64.146.125:8443#新加坡-30.79MB/
 172.64.229.110:443#JP-62.44MB/s
 108.162.198.184:443#JP-64.95MB/s
 172.64.52.192:443#JP-64.01MB/s
@@ -45,100 +38,208 @@
 162.159.45.235:8443#JP-47.09MB/s
 162.159.44.52:8443#JP-43.37MB/s
 172.64.52.243:8443#JP-30.35MB/s
-www.visa.cn:443#未知 电信优选
-cf.3666888.xyz:443#JP 电信优选
-cf.877774.xyz:2096#JP 电信优选
-www.mfyx.cn:2096#JP 电信优选
-jellyfin.roddy.eu.cc:2053#JP 电信优选
-cf.itv888.cn:443#JP 电信优选
-cdn.667891.xyz:443#JP 电信优选
-p.etime.vip:2096#JP 电信优选
-bbs.alipansou.com:2083#JP 电信优选
-www.crazygames.fr:2083#SG 电信优选
-saas.sin.fan:443#JP 电信优选
-auctions.ihg.com.cn:443#SG 电信优选
-www.doordash.com:443#SG 电信优选
-www.udacity.com:443#SG 电信优选
-china.mfa.gov.ua:443#SG 电信优选
-nexusmods.com:443#SG 电信优选
-img.856518.xyz:2083#SG 电信优选
-cdn.ddeed.de:2087#SG 电信优选
-www.vmware.com:2087#SG 电信优选
-linear.app:443#SG 电信优选
-www.leics.police.uk:443#SG 电信优选
-www.police.uk:443#SG 电信优选
-www.jimdo.com:443#SG 电信优选
-deepin.org:443#SG 电信优选
-polestar.com:443#SG 电信优选
-store.ubi.com:443#SG 电信优选
-neko.cloudd.eu.org:2087#SG 电信优选
-fn.130519.xyz:2087#JP 电信优选
-www.5199dy.com:443#SG 电信优选
-www.wto.org:443#SG 电信优选
-www.wuduanyun.com:443#JP 电信优选
-cf.090227.xyz:443#SG 电信优选
-login.rockwellautomation.com:2087#SG 电信优选
-www.zendesk.com:443#SG 电信优选
-www.sage.com:2053#SG 电信优选
-www.deepl.com:2096#SG 电信优选
-www.researchgate.net:443#SG 电信优选
-cdn.2x.nz:2096#SG 电信优选
-c-power.com.cn:443#SG 电信优选
-aqua-aria.company:2087#SG 电信优选
-www.shopify.com:443#SG 电信优选
-www.dg22.top:2053#SG 电信优选
-www.allianz.com:443#SG 电信优选
-cfip-ct.stoeaves.us.ci:2083#SG 电信优选
-neko.cloudflaree.eu.org:2087#SG 电信优选
-mail.notion.com:2087#SG 电信优选
-cdn.cnno.de:2053#SG 电信优选
-openai.com:443#SG 电信优选
-www.5h.com:2083#SG 电信优选
-cf2.996616.xyz:2053#SG 电信优选
-www.galgamex.net:8443#SG 电信优选
-www.giannidelprete.it:443#SG 电信优选
-serviceshub.samsclub.com:443#SG 电信优选
-www.broadcom.com:2083#SG 电信优选
-d.lma.de5.net:2096#SG 电信优选
-cf.yj250.bond:2096#SG 电信优选
-cmcc.cc.cd:2087#SG 电信优选
-cdn.7zz.cn:2053#JP 电信优选
-funko.com:8443#SG 电信优选
-idc.urkeji.com:2083#SG 电信优选
-www.emerson.com:443#SG 电信优选
-op.chinwa.eu.cc:2083#SG 电信优选
-markmonitor.com:2096#SG 电信优选
-www.akasantech.com:2083#SG 电信优选
-staticdelivery.nexusmods.com:2083#SG 电信优选
-www.asda.com:443#SG 电信优选
-academy.7shifts.com:443#SG 电信优选
-cf.1o.ee:2096#JP 电信优选
-www.transunion.hk:443#SG 电信优选
-www.blibli.com:2083#SG 电信优选
-cf.qq.ms:2083#SG 电信优选
-glassdoor.com:443#SG 电信优选
-bluehost.com:443#SG 电信优选
-224322.xyz:2053#JP 电信优选
-cfplus.255520.xyz:2053#SG 电信优选
-www.xflash.vip:2053#SG 电信优选
-www.government.is:2096#DE 电信优选
-test.509666.xyz:2087#SG 电信优选
-fictiv.com:443#DE 电信优选
-stores.staples.com:2096#SG 电信优选
-syncfusion.com:2096#DE 电信优选
-ex.warspite.dpdns.org:2087#SG 电信优选
-for.edu.sg:443#DE 电信优选
-codexradar.com:2083#DE 电信优选
-www.timbuktutravel.com:2053#DE 电信优选
-www.revechat.com:2087#DE 电信优选
-ln.edu.hk:443#DE 电信优选
-www.itedev.com:2083#DE 电信优选
-cdnjs.com:443#DE 电信优选
-encryptedsni.com:2096#DE 电信优选
-kniu.cc:8443#DE 电信优选
-salaryexpert.com:2096#DE 电信优选
-resources.biginterview.com:2053#DE 电信优选
-cf.nyanya.moe:2096#JP 电信优选
-cdn.555586.xyz:2096#SG 电信优选
-vps.cheng2001.top:8443#JP 电信优选
-
+cf.468123.xyz:2053#JP 电信优选[cf.468123.xyz 86ms]
+cf.3666888.xyz:2053#JP 电信优选[cf.3666888.xyz 88ms]
+cf.1o.ee:8443#JP 电信优选[cf.1o.ee 89ms]
+tt.78607323.xyz:443#JP 电信优选[tt.78607323.xyz 93ms]
+cdn.7zz.cn:2096#JP 电信优选[cdn.7zz.cn 94ms]
+cf.877774.xyz:2083#JP 电信优选[cf.877774.xyz 95ms]
+cdn.204910.best:8443#JP 电信优选[cdn.204910.best 96ms]
+bbs.alipansou.com:443#JP 电信优选[bbs.alipansou.com 98ms]
+cf-cname.xingpingcn.top:2096#JP 电信优选[cf-cname.xingpingcn.top 98ms]
+cdn.ctn32.us.kg:8443#JP 电信优选[cdn.ctn32.us.kg 98ms]
+eii.at:2083#JP 电信优选[eii.at 99ms]
+saas.sin.fan:443#JP 电信优选[saas.sin.fan 99ms]
+www.wuduanyun.com:443#JP 电信优选[www.wuduanyun.com 100ms]
+cloudflare.idc.rocks:2053#JP 电信优选[cloudflare.idc.rocks 101ms]
+mfa.gov.ua:443#SG 电信优选[mfa.gov.ua 103ms]
+securecircle.com:2083#SG 电信优选[securecircle.com 105ms]
+www.dentoncounty.gov:443#SG 电信优选[www.dentoncounty.gov 105ms]
+www.giannidelprete.it:2096#SG 电信优选[www.giannidelprete.it 106ms]
+fn.130519.xyz:2083#JP 电信优选[fn.130519.xyz 106ms]
+www.bangbenjiaju.com:2087#SG 电信优选[www.bangbenjiaju.com 107ms]
+224322.xyz:8443#JP 电信优选[224322.xyz 107ms]
+c-power.com.cn:2083#SG 电信优选[c-power.com.cn 108ms]
+cf.nyanya.moe:2087#JP 电信优选[cf.nyanya.moe 108ms]
+uspto.gov:2053#SG 电信优选[uspto.gov 109ms]
+www.mastervolt.com:2087#SG 电信优选[www.mastervolt.com 110ms]
+jobsdb.com:2083#SG 电信优选[jobsdb.com 110ms]
+img.css.sd:2087#SG 电信优选[img.css.sd 110ms]
+cf.itv888.cn:2087#JP 电信优选[cf.itv888.cn 110ms]
+linear.app:2096#SG 电信优选[linear.app 111ms]
+constitution.congress.gov:2087#SG 电信优选[constitution.congress.gov 112ms]
+hzytjy.cn:2083#SG 电信优选[hzytjy.cn 112ms]
+academy.7shifts.com:443#SG 电信优选[academy.7shifts.com 113ms]
+staticdelivery.nexusmods.com:2083#SG 电信优选[staticdelivery.nexusmods.com 113ms]
+www.zendesk.com:443#SG 电信优选[www.zendesk.com 113ms]
+www.blibli.com:443#SG 电信优选[www.blibli.com 113ms]
+www.vmware.com:443#SG 电信优选[www.vmware.com 113ms]
+www.sage.com:443#SG 电信优选[www.sage.com 114ms]
+coreweave.com:8443#SG 电信优选[coreweave.com 114ms]
+www.gov.il:2053#SG 电信优选[www.gov.il 114ms]
+www.broadcom.com:2053#SG 电信优选[www.broadcom.com 115ms]
+api.gzcrtw.com:2087#JP 电信优选[api.gzcrtw.com 115ms]
+53.fs1.hubspotusercontent-na1.net:2053#SG 电信优选[53.fs1.hubspotusercontent-na1.net 115ms]
+login.rockwellautomation.com:443#SG 电信优选[login.rockwellautomation.com 115ms]
+www.vastnovel.com:2083#SG 电信优选[www.vastnovel.com 116ms]
+www.xiaoshuofen.com:2096#SG 电信优选[www.xiaoshuofen.com 116ms]
+www.deepl.com:443#SG 电信优选[www.deepl.com 118ms]
+spring.io:2083#SG 电信优选[spring.io 118ms]
+funko.com:8443#SG 电信优选[funko.com 120ms]
+d.lma.de5.net:2096#SG 电信优选[d.lma.de5.net 121ms]
+thebeat.gehealthcare.com:2087#SG 电信优选[thebeat.gehealthcare.com 121ms]
+cfip-ct.stoeaves.us.ci:2083#SG 电信优选[cfip-ct.stoeaves.us.ci 122ms]
+vps.cheng2001.top:443#JP 电信优选[vps.cheng2001.top 122ms]
+ikankeji.com:2096#SG 电信优选[ikankeji.com 124ms]
+dongbanghong.com:2053#SG 电信优选[dongbanghong.com 124ms]
+www.carousell.sg:2096#SG 电信优选[www.carousell.sg 126ms]
+kickstarter.com:2053#SG 电信优选[kickstarter.com 126ms]
+img.856518.xyz:443#SG 电信优选[img.856518.xyz 127ms]
+versantstore.pearson.com:2087#SG 电信优选[versantstore.pearson.com 129ms]
+www.sofi.com:2096#SG 电信优选[www.sofi.com 130ms]
+wppaunz.com:2083#SG 电信优选[wppaunz.com 130ms]
+www.shopify.com:8443#SG 电信优选[www.shopify.com 130ms]
+www.akasantech.com:8443#SG 电信优选[www.akasantech.com 130ms]
+neko.cloudflaree.eu.org:2053#SG 电信优选[neko.cloudflaree.eu.org 133ms]
+openai.com:2096#SG 电信优选[openai.com 133ms]
+kniu.cc:2087#SG 电信优选[kniu.cc 134ms]
+www.leics.police.uk:2053#SG 电信优选[www.leics.police.uk 134ms]
+cf.xreak.top:2087#JP 电信优选[cf.xreak.top 136ms]
+auto.dolby.dpdns.org:2053#JP 电信优选[auto.dolby.dpdns.org 137ms]
+www.bis.gov:443#SG 电信优选[www.bis.gov 137ms]
+dnew.cc:8443#SG 电信优选[dnew.cc 137ms]
+cf2.996616.xyz:2053#SG 电信优选[cf2.996616.xyz 140ms]
+egov.uscis.gov:2083#SG 电信优选[egov.uscis.gov 141ms]
+m.iyf.tv:2087#SG 电信优选[m.iyf.tv 141ms]
+stores.staples.com:8443#SG 电信优选[stores.staples.com 142ms]
+mail.notion.com:2083#SG 电信优选[mail.notion.com 143ms]
+www.udacity.com:443#SG 电信优选[www.udacity.com 144ms]
+cdns.doon.eu.org:2087#SG 电信优选[cdns.doon.eu.org 148ms]
+www.wto.org:443#SG 电信优选[www.wto.org 152ms]
+www.mlkj888.com:443#SG 电信优选[www.mlkj888.com 153ms]
+www.mfyx.cn:2053#JP 电信优选[www.mfyx.cn 154ms]
+cfplus.255520.xyz:2083#SG 电信优选[cfplus.255520.xyz 156ms]
+guide.for.edu.sg:443#SG 电信优选[guide.for.edu.sg 157ms]
+store.ubi.com:2087#SG 电信优选[store.ubi.com 158ms]
+serviceshub.samsclub.com:2087#SG 电信优选[serviceshub.samsclub.com 159ms]
+www.dbs.com.sg:2096#SG 电信优选[www.dbs.com.sg 160ms]
+baota.us.kg:2083#SG 电信优选[baota.us.kg 164ms]
+www.jp.pima.gov:2053#SG 电信优选[www.jp.pima.gov 166ms]
+uptimerobot.com:2087#DE 电信优选[uptimerobot.com 167ms]
+www.ventusky.com:443#DE 电信优选[www.ventusky.com 168ms]
+jellyfin.roddy.eu.cc:2053#SG 电信优选[jellyfin.roddy.eu.cc 169ms]
+ping.pe:2053#DE 电信优选[ping.pe 172ms]
+redis.io:443#DE 电信优选[redis.io 174ms]
+kali.download:2087#US 电信优选[kali.download 174ms]
+www.5h.com:2087#SG 电信优选[www.5h.com 174ms]
+www.elysee.fr:2083#DE 电信优选[www.elysee.fr 175ms]
+japan.com:2053#DE 电信优选[japan.com 175ms]
+stonexbullion.com:2096#DE 电信优选[stonexbullion.com 176ms]
+aimagazine.com:2053#DE 电信优选[aimagazine.com 177ms]
+store.ubisoft.com:2053#US 电信优选[store.ubisoft.com 178ms]
+www.visa.com.au:2096#US 电信优选[www.visa.com.au 179ms]
+www.visa.com.sg:2087#US 电信优选[www.visa.com.sg 180ms]
+www.meteorelectrical.com:2053#DE 电信优选[www.meteorelectrical.com 180ms]
+aftership.com:2087#US 电信优选[aftership.com 180ms]
+www.copilot.com:8443#US 电信优选[www.copilot.com 181ms]
+webn.cc:443#DE 电信优选[webn.cc 181ms]
+www.speedtest.net:2096#US 电信优选[www.speedtest.net 182ms]
+www.donaldjtrump.com:2096#US 电信优选[www.donaldjtrump.com 182ms]
+cloudflare-ip.mofashi.ltd:443#US 电信优选[cloudflare-ip.mofashi.ltd 182ms]
+kwiat.com:2087#DE 电信优选[kwiat.com 182ms]
+pure.coupert.com:2083#US 电信优选[pure.coupert.com 182ms]
+www.epicgames.com:2096#DE 电信优选[www.epicgames.com 183ms]
+singapore.com:2083#DE 电信优选[singapore.com 183ms]
+help.kolet.com:2053#DE 电信优选[help.kolet.com 183ms]
+www.moc.gov.tw:2096#US 电信优选[www.moc.gov.tw 184ms]
+qoj.ac:443#US 电信优选[qoj.ac 184ms]
+newsroom.avalara.com:8443#US 电信优选[newsroom.avalara.com 184ms]
+api.uniapi.io:2053#DE 电信优选[api.uniapi.io 184ms]
+www.applevis.com:2053#DE 电信优选[www.applevis.com 184ms]
+images.chesscomfiles.com:2087#US 电信优选[images.chesscomfiles.com 184ms]
+bitsight.com:8443#US 电信优选[bitsight.com 184ms]
+www.revechat.com:2087#DE 电信优选[www.revechat.com 184ms]
+jquery.com:2096#US 电信优选[jquery.com 184ms]
+www.ox.ac.uk:2087#DE 电信优选[www.ox.ac.uk 185ms]
+cfip.1323123.xyz:8443#US 电信优选[cfip.1323123.xyz 185ms]
+themeisle.com:8443#US 电信优选[themeisle.com 185ms]
+cf.0sm.com:2096#DE 电信优选[cf.0sm.com 185ms]
+cdn.fiatnorm.us.kg:2053#SG 电信优选[cdn.fiatnorm.us.kg 185ms]
+op.chinwa.eu.cc:2096#SG 电信优选[op.chinwa.eu.cc 185ms]
+mvnrepository.com:443#DE 电信优选[mvnrepository.com 185ms]
+my.vultr.com:2053#US 电信优选[my.vultr.com 185ms]
+resources.biginterview.com:2083#DE 电信优选[resources.biginterview.com 185ms]
+hostinger.com:2096#US 电信优选[hostinger.com 186ms]
+zen-browser.app:8443#DE 电信优选[zen-browser.app 186ms]
+cf.drxian.dpdns.org:443#US 电信优选[cf.drxian.dpdns.org 186ms]
+zabc.net:8443#DE 电信优选[zabc.net 186ms]
+hubspot.com:2096#US 电信优选[hubspot.com 186ms]
+fictiv.com:443#DE 电信优选[fictiv.com 186ms]
+pubs.acs.org:2096#US 电信优选[pubs.acs.org 186ms]
+www.postman.com:2096#DE 电信优选[www.postman.com 186ms]
+www.mediafire.com:2096#US 电信优选[www.mediafire.com 187ms]
+worldvectorlogo.com:2096#DE 电信优选[worldvectorlogo.com 187ms]
+gitlab.com:443#US 电信优选[gitlab.com 187ms]
+cf.777791.xyz:443#US 电信优选[cf.777791.xyz 187ms]
+moondroplab.com:8443#DE 电信优选[moondroplab.com 187ms]
+alternativeto.net:2053#US 电信优选[alternativeto.net 187ms]
+dx.doi.org:2083#DE 电信优选[dx.doi.org 187ms]
+flightradar24.com:443#US 电信优选[flightradar24.com 188ms]
+fbi.gov:443#US 电信优选[fbi.gov 188ms]
+cdnjs.com:2083#DE 电信优选[cdnjs.com 188ms]
+cloudflare.tv:443#DE 电信优选[cloudflare.tv 188ms]
+envato.com:2083#US 电信优选[envato.com 188ms]
+www.petronaftco.com:2083#DE 电信优选[www.petronaftco.com 188ms]
+www.acces-maroc.ma:443#DE 电信优选[www.acces-maroc.ma 188ms]
+dev.graco.com:443#US 电信优选[dev.graco.com 188ms]
+noc.one:2087#DE 电信优选[noc.one 188ms]
+www.crazygames.fr:8443#SG 电信优选[www.crazygames.fr 188ms]
+prizepicks.com:443#SG 电信优选[prizepicks.com 188ms]
+cnllm.com:443#SG 电信优选[cnllm.com 188ms]
+mogas.com:2083#DE 电信优选[mogas.com 189ms]
+cdn.cnno.de:2096#DE 电信优选[cdn.cnno.de 189ms]
+nhentai.net:443#DE 电信优选[nhentai.net 189ms]
+liziye.pages.dev:2087#US 电信优选[liziye.pages.dev 189ms]
+grass.io:2096#US 电信优选[grass.io 189ms]
+mokeedev.com:2083#DE 电信优选[mokeedev.com 189ms]
+chrono24.com:2083#US 电信优选[chrono24.com 189ms]
+yd.zhuqq.qzz.io:2083#US 电信优选[yd.zhuqq.qzz.io 190ms]
+clickhouse.com:8443#US 电信优选[clickhouse.com 190ms]
+www.hugedomains.com:2087#DE 电信优选[www.hugedomains.com 190ms]
+dogechain.info:8443#DE 电信优选[dogechain.info 190ms]
+debot.ai:2083#DE 电信优选[debot.ai 190ms]
+www.canadatype.com:443#DE 电信优选[www.canadatype.com 190ms]
+digitalocean.com:443#US 电信优选[digitalocean.com 191ms]
+hsl.upstate.edu:443#US 电信优选[hsl.upstate.edu 191ms]
+i.pages.dev:2083#US 电信优选[i.pages.dev 191ms]
+www.loc.gov:2053#US 电信优选[www.loc.gov 191ms]
+packtpub.com:2087#DE 电信优选[packtpub.com 191ms]
+example.com:2083#DE 电信优选[example.com 191ms]
+ip.sb:2096#DE 电信优选[ip.sb 192ms]
+rankmath.com:2087#DE 电信优选[rankmath.com 192ms]
+time.is:443#DE 电信优选[time.is 192ms]
+elegantthemes.com:2096#US 电信优选[elegantthemes.com 192ms]
+mskcc.org:443#US 电信优选[mskcc.org 193ms]
+cdn.sketch.com:2087#DE 电信优选[cdn.sketch.com 193ms]
+ncc.gov.ng:2096#DE 电信优选[ncc.gov.ng 193ms]
+i.pixiv.re:8443#NL 电信优选[i.pixiv.re 193ms]
+sunkist.com:8443#US 电信优选[sunkist.com 195ms]
+nodejs.org:2083#US 电信优选[nodejs.org 195ms]
+www.swowd.com:2053#US 电信优选[www.swowd.com 195ms]
+networksolutions.com:2053#DE 电信优选[networksolutions.com 195ms]
+rocketreach.co:8443#US 电信优选[rocketreach.co 196ms]
+videodelivery.net:2053#US 电信优选[videodelivery.net 196ms]
+cf.vvhan.com:8443#DE 电信优选[cf.vvhan.com 197ms]
+api.producthunt.com:443#DE 电信优选[api.producthunt.com 197ms]
+moodle.org:2087#DE 电信优选[moodle.org 197ms]
+www.visa.com.hk:2053#DE 电信优选[www.visa.com.hk 198ms]
+www.spacex.com:2083#DE 电信优选[www.spacex.com 198ms]
+lose.edu.eu.org:2096#NL 电信优选[lose.edu.eu.org 198ms]
+www.lbl.gov:2053#US 电信优选[www.lbl.gov 198ms]
+www.itedev.com:2083#DE 电信优选[www.itedev.com 198ms]
+cdnjs.loli.net:8443#DE 电信优选[cdnjs.loli.net 199ms]
+unpkg.com:2053#US 电信优选[unpkg.com 200ms]
+99.co:443#DE 电信优选[99.co 200ms]
+www.apnic.net:8443#US 电信优选[www.apnic.net 200ms]
+www.chess.com:8443#US 电信优选[www.chess.com 200ms]
+cf.090227.xyz:2083#SG 电信优选[cf.090227.xyz 200ms]
