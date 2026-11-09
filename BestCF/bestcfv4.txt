@@ -1,3 +1,72 @@
+104.18.42.13:443#46.42MB/s-SIN-Asia Pacific
+172.64.229.173:443#43.67MB/s-NRT-Asia Pacific
+172.64.229.161:443#41.58MB/s-NRT-Asia Pacific
+172.64.229.44:443#41.00MB/s-NRT-Asia Pacific
+172.64.229.249:443#39.67MB/s-NRT-Asia Pacific
+120.240.179.158:10001#38.47MB/s-HKG-Asia Pacific
+152.175.38.157:8443#36.58MB/s-NRT-Asia Pacific
+172.64.229.235:443#35.33MB/s-NRT-Asia Pacific
+172.64.229.88:443#33.72MB/s-NRT-Asia Pacific
+172.64.229.180:8443#30.49MB/s-NRT-Asia Pacific
+172.64.229.170:443#30.27MB/s-NRT-Asia Pacific
+172.64.229.236:443#29.04MB/s-NRT-Asia Pacific
+172.64.151.234:443#28.75MB/s-SIN-Asia Pacific
+104.18.33.121:443#28.70MB/s-SIN-Asia Pacific
+172.64.229.66:443#27.00MB/s-NRT-Asia Pacific
+172.64.229.195:443#26.75MB/s-NRT-Asia Pacific
+104.18.34.33:443#26.23MB/s-SIN-Asia Pacific
+104.18.37.75:443#25.69MB/s-SIN-Asia Pacific
+172.64.150.197:443#24.70MB/s-SIN-Asia Pacific
+172.64.229.174:443#23.48MB/s-NRT-Asia Pacific
+104.18.38.95:443#22.76MB/s-SIN-Asia Pacific
+45.59.131.117:443#21.36MB/s-SYD-Oceania
+104.18.35.164:443#20.84MB/s-SIN-Asia Pacific
+172.64.229.66:2096#19.39MB/s-NRT-Asia Pacific
+188.245.31.214:443#19.11MB/s-CDG-Europe
+179.253.226.223:443#18.73MB/s-LAX-North America
+153.76.206.229:8443#16.22MB/s-AMS-Europe
+159.195.145.115:443#15.79MB/s-HAM-Europe
+216.131.127.149:443#15.36MB/s-SJC-North America
+179.255.140.230:443#14.49MB/s-LAX-North America
+188.114.98.46:2087#14.16MB/s-AMS-Europe
+172.64.229.185:443#13.93MB/s-NRT-Asia Pacific
+179.255.111.93:443#13.75MB/s-LAX-North America
+23.246.154.158:2083#13.64MB/s-SJC-North America
+2606:4700::6812:1613:443#13.54MB/s-SJC-North America
+179.253.254.16:8443#13.28MB/s-LAX-North America
+131.143.181.80:443#12.98MB/s-LAX-North America
+198.20.133.248:8443#12.98MB/s-HKG-Asia Pacific
+104.18.33.88:443#12.95MB/s-SIN-Asia Pacific
+144.34.227.241:443#12.79MB/s-LAX-North America
+199.247.1.240:443#12.78MB/s-FRA-Europe
+162.159.193.231:443#12.13MB/s-LAX-North America
+179.255.141.88:443#12.09MB/s-LAX-North America
+179.253.235.180:443#12.05MB/s-LAX-North America
+104.18.33.103:443#11.55MB/s-SIN-Asia Pacific
+188.114.96.112:443#11.37MB/s-AMS-Europe
+45.59.131.119:443#11.27MB/s-LAX-North America
+207.246.91.106:443#11.26MB/s-EWR-North America
+159.195.33.255:443#10.93MB/s-FRA-Europe
+45.77.54.222:443#10.54MB/s-FRA-Europe
+172.64.229.164:443#41.16MB/s-NRT-Asia Pacific
+172.64.229.7:443#41.09MB/s-NRT-Asia Pacific
+172.64.229.66:443#26.05MB/s-NRT-Asia Pacific
+172.64.229.110:443#24.60MB/s-NRT-Asia Pacific
+2606:4700:ff00::ee36:6e73:443#23.05MB/s-NRT-Asia Pacific
+2606:4700::6812:1713:443#13.69MB/s-SJC-North America
+104.21.7.129:443#12.62MB/s-AMS-Europe
+104.21.9.248:443#10.78MB/s-AMS-Europe
+2620:127:f00f:e:::443#9.11MB/s-SJC-North America
+2606:4700:4406::6812:21bb:443#6.84MB/s-SIN-Asia Pacific
+2a06:98c1:310d::ac40:99da:443#5.87MB/s-SIN-Asia Pacific
+2a06:98c1:310d::6812:255b:443#4.27MB/s-SIN-Asia Pacific
+2606:4700:4403::6812:2089:443#4.09MB/s-SIN-Asia Pacific
+2606:4700:4405::ac40:9a45:443#4.02MB/s-SIN-Asia Pacific
+2606:4700:3031::6815:5d52:443#3.62MB/s-AMS-Europe
+2606:4700::6810:baad:443#3.48MB/s-SJC-North America
+2606:4700:440d::6812:28ce:443#3.32MB/s-SIN-Asia Pacific
+2606:4700:3037::6815:5e88:443#3.23MB/s-AMS-Europe
+2606:4700:20::681a:578:443#2.99MB/s-FRA-Europe
 172.64.53.84
 162.159.44.90
 172.64.52.161
@@ -164,63 +233,3 @@ www.blibli.com:8443#SG 电信优选[www.blibli.com 194ms]
 jobsdb.com:2087#SG 电信优选[jobsdb.com 194ms]
 sourceforge.net:8443#US 电信优选[sourceforge.net 196ms]
 cdn.555586.xyz:2096#SG 电信优选[cdn.555586.xyz 197ms]
-visa.com:443#DE 电信优选[visa.com 197ms]
-packtpub.com:2096#US 电信优选[packtpub.com 198ms]
-www.dbs.com.sg:2053#SG 电信优选[www.dbs.com.sg 198ms]
-jquery.com:2053#US 电信优选[jquery.com 199ms]
-my.vultr.com:8443#US 电信优选[my.vultr.com 200ms]优选[www.postman.com 186ms]
-www.mediafire.com:2096#US 电信优选[www.mediafire.com 187ms]
-worldvectorlogo.com:2096#DE 电信优选[worldvectorlogo.com 187ms]
-gitlab.com:443#US 电信优选[gitlab.com 187ms]
-cf.777791.xyz:443#US 电信优选[cf.777791.xyz 187ms]
-moondroplab.com:8443#DE 电信优选[moondroplab.com 187ms]
-alternativeto.net:2053#US 电信优选[alternativeto.net 187ms]
-dx.doi.org:2083#DE 电信优选[dx.doi.org 187ms]
-flightradar24.com:443#US 电信优选[flightradar24.com 188ms]
-fbi.gov:443#US 电信优选[fbi.gov 188ms]
-cdnjs.com:2083#DE 电信优选[cdnjs.com 188ms]
-cloudflare.tv:443#DE 电信优选[cloudflare.tv 188ms]
-envato.com:2083#US 电信优选[envato.com 188ms]
-www.petronaftco.com:2083#DE 电信优选[www.petronaftco.com 188ms]
-www.acces-maroc.ma:443#DE 电信优选[www.acces-maroc.ma 188ms]
-dev.graco.com:443#US 电信优选[dev.graco.com 188ms]
-noc.one:2087#DE 电信优选[noc.one 188ms]
-www.crazygames.fr:8443#SG 电信优选[www.crazygames.fr 188ms]
-prizepicks.com:443#SG 电信优选[prizepicks.com 188ms]
-cnllm.com:443#SG 电信优选[cnllm.com 188ms]
-mogas.com:2083#DE 电信优选[mogas.com 189ms]
-cdn.cnno.de:2096#DE 电信优选[cdn.cnno.de 189ms]
-nhentai.net:443#DE 电信优选[nhentai.net 189ms]
-liziye.pages.dev:2087#US 电信优选[liziye.pages.dev 189ms]
-grass.io:2096#US 电信优选[grass.io 189ms]
-mokeedev.com:2083#DE 电信优选[mokeedev.com 189ms]
-chrono24.com:2083#US 电信优选[chrono24.com 189ms]
-yd.zhuqq.qzz.io:2083#US 电信优选[yd.zhuqq.qzz.io 190ms]
-clickhouse.com:8443#US 电信优选[clickhouse.com 190ms]
-www.hugedomains.com:2087#DE 电信优选[www.hugedomains.com 190ms]
-dogechain.info:8443#DE 电信优选[dogechain.info 190ms]
-debot.ai:2083#DE 电信优选[debot.ai 190ms]
-www.canadatype.com:443#DE 电信优选[www.canadatype.com 190ms]
-digitalocean.com:443#US 电信优选[digitalocean.com 191ms]
-hsl.upstate.edu:443#US 电信优选[hsl.upstate.edu 191ms]
-i.pages.dev:2083#US 电信优选[i.pages.dev 191ms]
-www.loc.gov:2053#US 电信优选[www.loc.gov 191ms]
-packtpub.com:2087#DE 电信优选[packtpub.com 191ms]
-example.com:2083#DE 电信优选[example.com 191ms]
-ip.sb:2096#DE 电信优选[ip.sb 192ms]
-rankmath.com:2087#DE 电信优选[rankmath.com 192ms]
-time.is:443#DE 电信优选[time.is 192ms]
-elegantthemes.com:2096#US 电信优选[elegantthemes.com 192ms]
-mskcc.org:443#US 电信优选[mskcc.org 193ms]
-cdn.sketch.com:2087#DE 电信优选[cdn.sketch.com 193ms]
-ncc.gov.ng:2096#DE 电信优选[ncc.gov.ng 193ms]
-i.pixiv.re:8443#NL 电信优选[i.pixiv.re 193ms]
-sunkist.com:8443#US 电信优选[sunkist.com 195ms]
-nodejs.org:2083#US 电信优选[nodejs.org 195ms]
-www.swowd.com:2053#US 电信优选[www.swowd.com 195ms]
-networksolutions.com:2053#DE 电信优选[networksolutions.com 195ms]
-rocketreach.co:8443#US 电信优选[rocketreach.co 196ms]
-videodelivery.net:2053#US 电信优选[videodelivery.net 196ms]
-cf.vvhan.com:8443#DE 电信优选[cf.vvhan.com 197ms]
-api.producthunt.com:443#DE 电信优选[api.producthunt.com 197ms]
-moodle.org:2087#DE 电信优选[moodle.org 197ms]
