@@ -1,3 +1,32 @@
+104.18.41.122:443#60.89MB/s-SIN-SG
+172.64.151.147:443#60.40MB/s-SIN-SG
+162.159.22.119:443#58.16MB/s-SIN-SG
+172.64.155.107:443#57.87MB/s-SIN-SG
+8.39.125.243:443#57.76MB/s-SIN-SG
+162.159.12.170:443#57.76MB/s-SIN-SG
+162.159.33.173:443#56.85MB/s-SIN-SG
+162.159.48.181:443#55.78MB/s-SIN-SG
+172.64.152.124:443#55.60MB/s-SIN-SG
+104.18.45.197:443#55.40MB/s-SIN-SG
+104.18.32.188:443#54.99MB/s-SIN-SG
+104.18.44.48:443#54.97MB/s-SIN-SG
+172.64.35.28:443#54.75MB/s-SIN-SG
+162.159.17.149:443#54.18MB/s-SIN-SG
+162.159.0.232:443#53.53MB/s-SIN-SG
+162.159.10.146:443#52.79MB/s-SIN-SG
+172.64.148.136:443#52.31MB/s-SIN-SG
+172.64.150.252:443#49.07MB/s-SIN-SG
+172.64.42.74:443#43.55MB/s-SIN-SG
+173.245.59.255:443#42.32MB/s-SIN-SG
+162.159.19.196:443#40.37MB/s-SIN-SG
+104.18.46.20:443#40.25MB/s-SIN-SG
+172.64.40.237:443#36.74MB/s-SIN-SG
+198.41.223.119:443#35.54MB/s-SIN-SG
+162.159.1.87:443#34.62MB/s-SIN-SG
+108.162.195.129:443#24.93MB/s-SIN-SG
+162.159.40.243:443#24.40MB/s-SIN-SG
+162.159.32.86:443#23.61MB/s-SIN-SG
+172.64.38.118:443#18.88MB/s-SIN-SG
 104.18.42.13:443#46.42MB/s-SIN-Asia Pacific
 172.64.229.173:443#43.67MB/s-NRT-Asia Pacific
 172.64.229.161:443#41.58MB/s-NRT-Asia Pacific
@@ -50,7 +79,6 @@
 45.77.54.222:443#10.54MB/s-FRA-Europe
 172.64.229.164:443#41.16MB/s-NRT-Asia Pacific
 172.64.229.7:443#41.09MB/s-NRT-Asia Pacific
-172.64.229.66:443#26.05MB/s-NRT-Asia Pacific
 172.64.229.110:443#24.60MB/s-NRT-Asia Pacific
 2606:4700:ff00::ee36:6e73:443#23.05MB/s-NRT-Asia Pacific
 2606:4700::6812:1713:443#13.69MB/s-SJC-North America
@@ -153,7 +181,7 @@
 cf.itv888.cn:2083#JP 电信优选[cf.itv888.cn 105ms]
 cdn.7zz.cn:2087#JP 电信优选[cdn.7zz.cn 109ms]
 www.mfyx.cn:2087#JP 电信优选[www.mfyx.cn 110ms]
-ys2046.cv:2053#JP 电信优选[ys2046.cv 111ms]
+shturl.cc/IJYFKha 电信优选[shturl.cc 111ms]
 api.gzcrtw.com:2083#JP 电信优选[api.gzcrtw.com 111ms]
 saas.sin.fan:2087#JP 电信优选[saas.sin.fan 112ms]
 www.sage.com:2053#SG 电信优选[www.sage.com 112ms]
@@ -166,9 +194,9 @@ www.wuduanyun.com:443#JP 电信优选[www.wuduanyun.com 123ms]
 www.bis.gov:443#SG 电信优选[www.bis.gov 123ms]
 versantstore.pearson.com:2083#SG 电信优选[versantstore.pearson.com 124ms]
 www.wto.org:2053#SG 电信优选[www.wto.org 125ms]
-auto.dolby.dpdns.org:2053#JP 电信优选[auto.dolby.dpdns.org 125ms]
+shturl.cc/k8xCWdxTzuo8VQ9Xrt 电信优选[shturl.cc/9cSvRkAxfF 125ms]
 ali.nonull.pp.ua:2053#JP 电信优选[ali.nonull.pp.ua 127ms]
-prizepicks.com:443#SG 电信优选[prizepicks.com 127ms]
+shturl.cc/SsaRJnVTev0 电信优选[shturl.cc/ee74 127ms]
 guide.for.edu.sg:443#SG 电信优选[guide.for.edu.sg 128ms]
 cf.1o.ee:2096#JP 电信优选[cf.1o.ee 128ms]
 www.deepl.com:2087#SG 电信优选[www.deepl.com 129ms]
@@ -182,10 +210,10 @@ www.sloomb.com:2087#SG 电信优选[www.sloomb.com 137ms]
 www.broadcom.com:2083#SG 电信优选[www.broadcom.com 137ms]
 neko.cloudflaree.eu.org:2083#SG 电信优选[neko.cloudflaree.eu.org 137ms]
 www.carousell.sg:2053#SG 电信优选[www.carousell.sg 137ms]
-cf.777791.xyz:8443#SG 电信优选[cf.777791.xyz 138ms]
+shturl.cc/GyW:8443#SG 电信优选[shturl.cc/GyW 138ms]
 tt.78607323.xyz:8443#JP 电信优选[tt.78607323.xyz 140ms]
 lt.1930812.xyz:8443#SG 电信优选[lt.1930812.xyz 142ms]
-ex.warspite.dpdns.org:2096#SG 电信优选[ex.warspite.dpdns.org 142ms]
+shturl.cc/IwDqEocA5SY:2096#SG 电信优选[shturl.cc/IwDqEocA5SY 142ms]
 www.udacity.com:2087#SG 电信优选[www.udacity.com 144ms]
 224322.xyz:2053#JP 电信优选[224322.xyz 148ms]
 www.shopify.com:8443#SG 电信优选[www.shopify.com 148ms]
@@ -224,7 +252,7 @@ www.akasantech.com:2053#SG 电信优选[www.akasantech.com 182ms]
 53.fs1.hubspotusercontent-na1.net:2053#SG 电信优选[53.fs1.hubspotusercontent-na1.net 184ms]
 www.zendesk.com:2083#SG 电信优选[www.zendesk.com 188ms]
 s.ee:2083#DE 电信优选[s.ee 189ms]
-www.xiaoshuofen.com:2053#SG 电信优选[www.xiaoshuofen.com 189ms]
+shturl.cc/EXkuCs9nduKtFLDIa 电信优选[shturl.cc/MdRNvumfj 189ms]
 hzytjy.cn:2083#SG 电信优选[hzytjy.cn 190ms]
 registry.npmjs.org:2096#US 电信优选[registry.npmjs.org 192ms]
 stonexbullion.com:2053#DE 电信优选[stonexbullion.com 192ms]
